@@ -1,0 +1,2 @@
+<h1 style="color: white">PT. Mas Intan Jaya Sakti</h1>
+<iframe src="https://www.google.com/maps/place/PT.+Tambang+Batubara/@-3.7605658,103.7653119,15z/data=!4m5!3m4!1s0x0:0x3a19812f1b064121!8m2!3d-3.7605658!4d103.7653119"></iframe>
